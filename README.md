@@ -13,3 +13,6 @@ Passed Lesson 100 which was a little exciting for me.  Getting into JavaScript. 
 
 June 12 Update
 Functions are hard!  I'm not uploading my work for the Functions Problem Set because I didn't ever get 2 of the 3 working right.  Even after following along with the solution tutorial, mine are still showing errors in the console.  I will need to be aware of the fact that I didn't fully grasp this but I'm moving on.  I feel like I did understand the big picture with the functions but I'm sure there are some mistakes in my code that I will have to work out eventually.
+
+June 27 Update
+I've uploaded my files for the ToDo Lsit but I didn't get that working right either.  I took a couple week break to move from NM to MA and I felt like I remembered quite a bit when I came back to this.  So I'm happy about that.  But I cannot find where I haven't copied this code exactly, yet mine is not running right.  I will come back to this one as well.  Very frustrating.  And I just noticed that my last note from a couple weeks ago is that I didn't get that one right either.  Maybe later this week I will go back to both and try to tackle again.
