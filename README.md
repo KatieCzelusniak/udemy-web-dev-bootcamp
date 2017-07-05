@@ -16,3 +16,6 @@ Functions are hard!  I'm not uploading my work for the Functions Problem Set bec
 
 June 27 Update
 I've uploaded my files for the ToDo Lsit but I didn't get that working right either.  I took a couple week break to move from NM to MA and I felt like I remembered quite a bit when I came back to this.  So I'm happy about that.  But I cannot find where I haven't copied this code exactly, yet mine is not running right.  I will come back to this one as well.  Very frustrating.  And I just noticed that my last note from a couple weeks ago is that I didn't get that one right either.  Maybe later this week I will go back to both and try to tackle again.
+
+July 5 Update
+I'm ready to get back to a regular schedule of working on this but feel like I have already forgotten so much of the Javascript.  I'm going back to redo the section from the beginning so I won't be posting much here until that is done.  I hope I will also figure out the those last couple mistakes that I was making.  I hate to move ahead when I have errors in what was already done.
