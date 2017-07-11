@@ -19,3 +19,6 @@ I've uploaded my files for the ToDo Lsit but I didn't get that working right eit
 
 July 5 Update
 I'm ready to get back to a regular schedule of working on this but feel like I have already forgotten so much of the Javascript.  I'm going back to redo the section from the beginning so I won't be posting much here until that is done.  I hope I will also figure out the those last couple mistakes that I was making.  I hate to move ahead when I have errors in what was already done.
+
+July 11 Update
+I've been working through the lessons pretty quickly and skipping the ones that I'm confident I know or have good notes on.  I redid the ToDo list exercise that I had trouble with and it is working now.  The new files are in the ToDo List folder with a "2" on them.  Still having trouble finding why this one works and the first one didn't when I compare the two files.  But moving on cause, well, it works.
