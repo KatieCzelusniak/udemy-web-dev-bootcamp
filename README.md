@@ -22,3 +22,6 @@ I'm ready to get back to a regular schedule of working on this but feel like I h
 
 July 11 Update
 I've been working through the lessons pretty quickly and skipping the ones that I'm confident I know or have good notes on.  I redid the ToDo list exercise that I had trouble with and it is working now.  The new files are in the ToDo List folder with a "2" on them.  Still having trouble finding why this one works and the first one didn't when I compare the two files.  But moving on cause, well, it works.
+
+July 17 Update
+Finished the ToDo list part 2.  Everything works!  I have something buggy going on with the browser and the way it opens but everything else works fine.  I don't think the problem is with my code for this exercise, maybe just something that's a little different since this came out.  In any case, the code for the lesson is right and I finished out the exercise on my own and then watched the video to check my work, rather than coding along on the whole thing.  So that was exciting.  I also realize that this way of updating GitHub with files that I have already added is probably not the best.  But let's be real, no one is ever going to read this anyway so I'm just going to keep on keeping on like I have been.  I know there are lessons on GitHub later in this class so maybe that will help me come up with something better for next time.
